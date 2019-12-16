@@ -1,2 +1,3 @@
 # icgc-legacy-dictionary
-# icgc-legacy-dictionary
+
+Archive of ICGC 25k dictionary
